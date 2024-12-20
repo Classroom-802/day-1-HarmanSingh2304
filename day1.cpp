@@ -1,3 +1,7 @@
+HARMAN SINGH
+22BCS14925
+22BCSJT-802
+
 // Question 1
 #include "iostream"
 using namespace std;
